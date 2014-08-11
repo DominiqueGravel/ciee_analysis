@@ -1,0 +1,149 @@
+########################
+
+Inference group:
+- Mega fish network
+- arthropods metaweb
+
+Nuria: 
+- drivers of network variation
+
+Albouy\CIEE: 
+- macro-ecology of networks
+- biogeographic regions
+
+SFI Gradient group:
+- probaweb
+
+- review
+
+- GRAAL
+
+- Macro-ecology of networks
+
+- Spatial variation of the main network metrics
+
+- Spatial match of network metrics
+
+- Covariance environmental response and network structure
+
+ 
+########################
+
+CIEE
+
+- matériel ESA
+- finir code probaweb
+- rédaction probaweb
+- finir analyses pour co-occurrence
+- amorcer rédaction co-occurrence
+
+- finish probaweb
+- build up the megaweb
+- analyse modularity
+- analyse joint niches
+- analyse spatial variation in network structure
+
+- application NIMBIOS
+- application FRQNT
+
+########################
+
+MONDAY
+
+- overview of the table
+- 
+
+
+- link turnover vs indirect link turnover
+- networks of networks: propagation of indirect interactions
+
+- dispersal vs foraging -- impacts on spatial network structure
+- 
+
+
+
+
+
+
+4 mechanisms for network-area relationship
+
+- sampling: more species, different constraints on the distribution of the links (use the niche model to make the predictions)
+
+- extinction-area: the ttib prediction
+
+
+- beta-diversity in species composition
+
+
+- beta-diversity in the links
+
+
+- multidimensional way of controlling for the properties
+	- e.g. S, C, 
+
+- 
+ 
+
+-- underlying drivers: spatial distribution of traits/phylogeny
+
+- 
+
+
+
+
+
+
+
+
+#
+
+
+
+##
+Network alignment:
+ 
+solution to the alignment of multiple networks would be to align them to a 'latent network' 
+
+
+## 
+Contribution to beta diversity:
+- evaluate the contribution of each node to different properties (e.g. stability, network property, species beta diversity, network beta diversity)
+
+-  
+
+
+
+
+
+
+
+### USE THE PROBABILISTIC APPROACH TO EVALUATE CHANGE IN NETWORK PROPERTIES ALONG A TEMPERATURE GRADIENT
+- controlling for co-occurrence and for the impact of temperature on the metaweb
+- evaluate where the changes are the most important (dependence on temperature of the changes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
